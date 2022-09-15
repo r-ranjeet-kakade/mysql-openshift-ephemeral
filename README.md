@@ -22,6 +22,7 @@ Like everything else we do at Red Hat, it's open source and open to pull request
 `$PROJECT-HOME/scripts/create-customer.ps1`  
 
 ### Linux-based systems (including macOS)
+#### Note: Change the values here: 'ALTER USER '\''userBMN'\'' IDENTIFIED WITH mysql_native_password BY '\''vRUWhkydWOKdMDLd'\'';'" in create-customer.sh file.
 `$PROJECT-HOME/scripts/create-customer.sh`  
 
 ## Create the getCustomer service
