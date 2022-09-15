@@ -1,4 +1,4 @@
-mysql-1-7f5j5
+mpod=mysql-1-7f5j5
 
 echo "Copying setup files into pod..."
 oc cp ./customer-table-create.sql $mpod:/tmp/customer-table-create.sql
